@@ -1,0 +1,8 @@
+{
+  "collateralToken": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+  "amount": 1000000,
+  "conditionId": "0xd75d7012412509d534c0851f6a83091382df83fb1be656372e0db09f8972a3ea",
+  "conditionalTokens": "0xc8E244eB32200e6274E7737238AFa60eC6cf2511",
+  "wrapped1155Factory": "0x87bc2f26df5d72b3e45b298127e702ba7ed459ea",
+  "outcomeNames": ["Euler", "NOT Euler"]
+}

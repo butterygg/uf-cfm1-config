@@ -1,0 +1,8 @@
+{
+  "collateralToken": "0x078d782b760474a361dda0af3839290b0ef57ad6",
+  "amount": 1000000,
+  "conditionId": "0xb9a06b021be7c99c4c0e2e8f0d6bfc1f30dedbaa3396968d33af4642741a95a6",
+  "conditionalTokens": "0xc8E244eB32200e6274E7737238AFa60eC6cf2511",
+  "wrapped1155Factory": "0x87bc2f26df5d72b3e45b298127e702ba7ed459ea",
+  "outcomeNames": ["Morpho", "NOT Morpho"]
+}
